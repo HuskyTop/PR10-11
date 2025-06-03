@@ -38,4 +38,4 @@ int main() {
 
 ### Результат:
 ![alt text](image.png)
-### Як бачимо, вивівся як текст Hello child, так і текст child finished з бітьківського процесу
+### Як бачимо, вивівся як текст "Hello from child", так і текст "child finished" з бітьківського процесу
